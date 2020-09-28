@@ -8,22 +8,23 @@ profile:
   align: right
   image: fung_head.jpg
   address: >
-    <p>Economist</p>
-    <p>National Institute of Standards and Technology</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an economist working on selected topics in the economics of disaster
-resilience, including the use of predictive models to estimate seismic retrofit
-costs for buildings and quantifying a community's non-disaster benefits from
-investing in increased resilience.
+#### Economist 
+##### National Institute of Standards and Technology 
+
+I am an economist working on selected topics in disaster resilience, including
+the use of predictive models to estimate seismic retrofit costs for buildings
+and quantifying a community's non-disaster benefits from investing in increased
+resilience.
 
 I received a PhD in economics, as well as an MS in statistics, from University
-of Illinois, Urbana-Champaign. I also hold an MA in economics from University of
-Missouri, St. Louis, and a BA in economics from New York University.
+of Illinois, Urbana-Champaign. <!-- I also hold an MA in economics from University of -->
+<!-- Missouri, St. Louis, and a BA in economics from New York University. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite -->
 <!-- [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, -->
