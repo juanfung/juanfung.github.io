@@ -18,6 +18,8 @@ url: "" # https://juanfung.github.io # the base hostname & protocol for your sit
 baseurl: "" # /al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
+google_site_verification: kwzbfvt2mnY8pb5FlOEpXM8GxspKn1EvsyEF69XXDu4
+
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -113,6 +115,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
+  - jekyll-seo-tag
   # - bootstrap
   # - material-sass
 
