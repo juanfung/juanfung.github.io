@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 #### Economist 
-##### National Institute of Standards and Technology 
+##### [National Institute of Standards and Technology](https://www.nist.gov/people/juan-fung)
 
 I am an economist working on selected topics in disaster resilience, including
 the use of predictive models to estimate seismic retrofit costs for buildings
