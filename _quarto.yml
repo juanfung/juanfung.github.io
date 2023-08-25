@@ -16,7 +16,7 @@ website:
       - href: index.qmd
         text: Home
       - publications.qmd
-      - href: fungcv.pdf
+      - href: assets/fungcv.pdf
         text: CV
 
 format:
