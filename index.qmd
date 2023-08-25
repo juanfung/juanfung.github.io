@@ -1,5 +1,6 @@
 ---
 title: "Juan F. Fung"
+# subtitle: "National Institute of Standards and Technology"
 image: assets/fung_head.jpg
 about: 
   template: solana
@@ -16,10 +17,12 @@ about:
 ---
         
 
-I am an applied economist working on selected topics in disaster resilience,
-including the use of predictive models to estimate seismic retrofit costs for
-buildings and quantifying a community’s non-disaster benefits from investing in
-increased resilience.
+I am an economist at the U.S. Department of Commerce [National Institute of
+Standards and Technology (NIST)](https://www.nist.gov/people/juan-fung). My
+research is focused on topics in disaster resilience, including the use of
+predictive models to estimate seismic retrofit costs for buildings and
+quantifying a community’s non-disaster benefits from investing in increased
+resilience.
 
 I received a PhD in economics, as well as an MS in statistics, from University
 of Illinois, Urbana-Champaign.
