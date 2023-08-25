@@ -1,7 +1,22 @@
 ---
 title: "Juan F. Fung"
+image: assets/fung_head.jpg
+about: 
+  template: solana
+  image-shape: rectangle
+  image-width: 23em
+  links:
+    - text: GitHub
+      href: https://github.com/juanfung
+    - text: Email
+      href: mailto:juanfung@gmail.com
 ---
+        
 
-This is a Quarto website. See the [about](about.qmd) page.
+I am an applied economist working on selected topics in disaster resilience,
+including the use of predictive models to estimate seismic retrofit costs for
+buildings and quantifying a community’s non-disaster benefits from investing in
+increased resilience.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I received a PhD in economics, as well as an MS in statistics, from University
+of Illinois, Urbana-Champaign.

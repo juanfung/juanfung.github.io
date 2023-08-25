@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - assets/fungcv.pdf
 
 website:
   title: "juanfung.github.io"
@@ -7,7 +9,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - publications.qmd
+      - href: fungcv.pdf
+        text: CV
 
 format:
   html:
