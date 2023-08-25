@@ -1,10 +1,16 @@
 project:
   type: website
+  output-dir: docs
   resources:
     - assets/fungcv.pdf
 
 website:
   title: "juanfung.github.io"
+  favicon: favicon.ico
+  google-analytics:
+    tracking-id: "UA-404235864"
+    anonymize-ip: true
+    google-site-verification: "kwzbfvt2mnY8pb5FlOEpXM8GxspKn1EvsyEF69XXDu4"
   navbar:
     left:
       - href: index.qmd
@@ -15,9 +21,12 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
+    page-layout: full
 
 
 

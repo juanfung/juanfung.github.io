@@ -6,9 +6,12 @@ about:
   image-shape: rectangle
   image-width: 23em
   links:
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/juanfung
-    - text: Email
+      aria-label: GitHub
+    - icon: inbox
+      text: Email
       href: mailto:juanfung@gmail.com
 ---
         
