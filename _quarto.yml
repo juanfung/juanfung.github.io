@@ -8,6 +8,7 @@ website:
   title: "juanfung.github.io"
   favicon: favicon.ico
   page-footer: "Last updated 2023-08-25"
+  open-graph: true
   google-analytics:
     tracking-id: "UA-404235864"
     anonymize-ip: true
