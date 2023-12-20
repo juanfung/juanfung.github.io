@@ -1,9 +1,24 @@
 ---
 title: Publications
-bibliography: assets/fung.bib
+filters: 
+  - multibib
+# Turn off YAML validation
+validate-yaml: false
+citeproc: false
+bibliography:
+  pr: assets/jff-bib/fung-pr.bib
+  other: assets/jff-bib/fung-other.bib
 nocite: |
   @*
 ---
 
-Here are my publications in alphabetical order.
+## Peer-reviewed publications
+
+::: {#refs-pr}
+:::
+
+## Reports and other publications
+
+::: {#refs-other}
+:::
 
