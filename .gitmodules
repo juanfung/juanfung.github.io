@@ -1,0 +1,3 @@
+[submodule "assets/jff-bib"]
+	path = assets/jff-bib
+	url = git@github.com:juanfung/jff-bib.git
