@@ -7,7 +7,7 @@ project:
 website:
   title: "juanfung.github.io"
   favicon: favicon.ico
-  page-footer: "Last updated 2025-03-07"
+  page-footer: "Last updated 2025-05-16"
   open-graph: true
   google-analytics:
     tracking-id: "G-F3WYV37Y07"
